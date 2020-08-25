@@ -1,10 +1,57 @@
+# Education Template
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Université Toulouse - Paul Sabatier
+  dates: 2020 - 2021
+  qualification: Master 2 Mathematics RI
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-  description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Let's wait for an exciting start...
+- layout: left
+  name: Université Toulouse - Paul Sabatier
+  dates: 2019 - 2020
+  qualification: Master 1 Mathematics ESR
+  quote: >
+    This was my first time to live abroad, life was beautiful but lonely and I missed my friends in China a lot. The loneness helped me focus on mathematics but also hurt.
+  description: |
+    There was an amazing [math library](https://www.math.univ-toulouse.fr/spip.php?article604) with a basement, I enjoyed working underground with a blackboard in front.
+    + For the first semester, I followed these courses: functional analysis, algebra, probability, differential geometry and distribution. I had learnt most of them in Wuhan University as bachelor courses, so I followed some books talking about advanced topics, which are challenging enough for me to avoid the boredom out of repetition :
+        1. Walter Rudin: Functional Analysis, ISBN: 978-0-0706-1988-3
+        1. Serge Lang: Algebra, ISBN: 978-1-4612-6551-1
+        1. E. T. Jaynes: Probability Theory: The Logic of Science, ISBN: 978-0-5215-9271-0
+    + For the second semester, I followed mathematics modelling
+        , commutative algebra, topology, probability-statistics, and English. Our courses stopped at the middle of March because of the Covid-19 pandemic and I had no interest in attending any online courses. I was inefficient and learnt very little. Stressful at the beginning of pandemic and lonely at the end of this semester. I spent weeks on all other things except maths, such as program reverse engineering, music, website design, philosophy and psychology. Fortunately, I finally could sit down and learn geometry. Math is peace to me. I enjoyed follwing textbook:
+        1. Glen E. Bredon: Topology and Geometry, ISBN: 978-1-4419-3103-0
+        1. John M. Lee: Introduction to Smooth Manifolds, ISBN: 978-1-4419-9981-8
+        1. John W. Milnor: Topology from the Differentiable Viewpoint, ISBN: 978-0-6910-4833-8
+        1. Daniel Revuz & Marc Yor: Continuous Martingales and Brownian Motion, ISBN: 978-3-642-08400-3
+    
+    As for Master 2, I got a ten-month `scholarship` from [CIMI](http://www.cimi.univ-toulouse.fr/fr/bourses-d%C3%A9tudes).
+- layout: left
+  name: Wuhan University
+  dates: 2016 - 2020
+  qualification: Bachelor Base Mathematics
+  quote: >
+    The confusion about values led me explore more about philosophy. Thanks to the loose schedule of our mathematical department, I could save time for reading something about Nietzsche and Foucault.
+  description: |
+    Like most apprentices, I am interested in many areas of mathematics, such as algebra, geometry, probability, and logic. Although in the end, most students need to choose only one topic that interests them in order to become an expert in that field, learning different fields is still a worthwhile adventure.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    [College life](https://en.whu.edu.cn/) was colorful, and my experience had greatly enriched. I have tried interviewing rural teachers, writing mobile software and making short films; they were precious memories of my college life.
+    + In the last year, I received a five-month `scholarship` from [CSC](http://www.campuschina.org/) to study at Toulouse, France. Finally I used the internship report mentioned in the `Research` part of this page as my undergraduate design. Due to Covid-19, CSC committee changed the returning policy for students abroad so I stayed in France for a whole summer.
+    + In the third year, I took French courses on weekends, but not a hardworking student. I did a part-time job tutoring some college students with math. When I completed all the credits, my `GPA` reached 3.93/4.0, ranking second in my department.
+    + In the second year, I transferred to the [Department of Mathematics](http://maths.whu.edu.cn/Englishversion/index.htm). I was passionate about mathematics and got attentions from some teachers.
+    + In the first year, I majored in computer science. I was not very interested in this subject and even spent more time on math.
+
+- layout: left
+  name: Huanggang Middle School
+  dates: 2013 - 2016
+  quote: >
+    Having made more friends and read books in different categories, I developed a broad interest in science. Campus life taught me a lot about courage, caution, selflessness and diligence.
+  description: |
+    No longer being the best student in my class and I taught myself a bit more math. But unexpectedly, I didn't do well in the math part of [National College Entrance Examination](https://en.wikipedia.org/wiki/National_College_Entrance_Examination). Here is the [homepage](http://www.hbshgzx.com/).
+  
+- layout: left
+  name: Chenyi School
+  quote: >
+    It permitted me a wonderful childhood with not many homework assignments but many lovely teachers. English teacher Mr. Tong helped me get rid of school bullying.
+  description: |
+    In this rural independent school, I ranked first among 39 classmates; and the `scholarship` from it eased my financial difficulties. At that time, doing mathematical exercises satisfied me a lot and some teachers had creative solutions to them.
+  dates: 2008 - 2013

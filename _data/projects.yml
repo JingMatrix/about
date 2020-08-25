@@ -1,8 +1,9 @@
+# Project template
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Stochastics calculus application in quantum mechanics
+  link: https://jingmatrix.github.io/final-report
+  linktext: View the report PDF
+  # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  # quote: >
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    This is an internship project with my classmate Omar under the guide of [Tristan Benoist](https://tristanbenoist.wordpress.com/cv/) and [Clément Pellegrini](https://www.math.univ-toulouse.fr/~pellegri/).
