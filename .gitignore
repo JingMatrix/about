@@ -1,4 +1,5 @@
 vendor
+.jekyll-metadata
 *.gem
 .bundle
 .sass-cache
