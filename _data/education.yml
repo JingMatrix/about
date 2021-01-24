@@ -4,7 +4,19 @@
   dates: 2020 - 2021
   qualification: Master 2 Mathematics RI
   quote: >
-    Let's wait for an exciting start...
+    This semester was exciting but also depressing due to Covid-19. New classmates were competitive and I enjoyed this motivated study atmosphere.
+  description: |
+    I made few new friends and met three old classmates from Wuhan University this year. We shared similar interest in mathematics. This was much better then before since some discussions were available.
+      + Our first semester began offline but turned into online meetings after November. This was really a disastrous situation for me. I had lots of problem in focusing on my study since I would spend all my day doing programming stuff. This had no good to me, I became obsessive and distracted. I wasted a lot of time, and I learnt almost nothing when staying at my 9m² room. As for study, most of time I was trying to catch up course process by reading reference books. Some of them are interesing:
+        1. Peter Petersen: Riemannian Geometry, ISBN: 978-3-319-26652-7
+        1. S.R.Novikov V.A.Rokhlin (Eds.): Topology II, ISBN: 978-3-642-08084-5
+        1. Alan F.Beardon: Iteration of Rational Functions, ISBN: 978-0-387-95151-5
+
+        I didn't get a good mark for exams and hence dropped into deep self-doubt. And I tried hard to think over whether I should do a PhD. Finally I came to conclusion that without mathematics my life will be less tolerable and I shouldn't stop just due to the fear for unknown difficulties.
+
+        Another thing I needed to decide is my M2 internship topic. Firstly I tried hyperbolic geometry, then machine learning and finally optimal transport. Working with probability theory (measure theory) and geometry seemed nice and interesting enough to me. From my view point, they are good examples in mathematics that connect abstraction and intuition closely and this is where mathematics reveals its beauty.
+
+      + The second semester began with online courses, and I was still not used to this mode of study. I didn't finish any reference books yet so apparently I could work harder.
 - layout: left
   name: Université Toulouse - Paul Sabatier
   dates: 2019 - 2020
@@ -17,13 +29,12 @@
         1. Walter Rudin: Functional Analysis, ISBN: 978-0-0706-1988-3
         1. Serge Lang: Algebra, ISBN: 978-1-4612-6551-1
         1. E. T. Jaynes: Probability Theory: The Logic of Science, ISBN: 978-0-5215-9271-0
-    + For the second semester, I followed mathematics modelling
-        , commutative algebra, topology, probability-statistics, and English. Our courses stopped at the middle of March because of the Covid-19 pandemic and I had no interest in attending any online courses. I was inefficient and learnt very little. Stressful at the beginning of pandemic and lonely at the end of this semester. I spent weeks on all other things except maths, such as program reverse engineering, music, website design, philosophy and psychology. Fortunately, I finally could sit down and learn geometry. Math is peace to me. I enjoyed follwing textbook:
+    + For the second semester, I followed mathematics modelling, commutative algebra, topology, probability-statistics, and English. Our courses stopped at the middle of March because of the Covid-19 pandemic and I had no interest in attending any online courses. I was inefficient and learnt very little. Stressful at the beginning of pandemic and lonely at the end of this semester. I spent weeks on all other things except maths, such as program reverse engineering, music, website design, philosophy and psychology. Fortunately, I finally could sit down and learn geometry. Math is peace to me. I enjoyed following textbook:
         1. Glen E. Bredon: Topology and Geometry, ISBN: 978-1-4419-3103-0
         1. John M. Lee: Introduction to Smooth Manifolds, ISBN: 978-1-4419-9981-8
         1. John W. Milnor: Topology from the Differentiable Viewpoint, ISBN: 978-0-6910-4833-8
         1. Daniel Revuz & Marc Yor: Continuous Martingales and Brownian Motion, ISBN: 978-3-642-08400-3
-    
+
     As for Master 2, I got a ten-month `scholarship` from [CIMI](http://www.cimi.univ-toulouse.fr/fr/bourses-d%C3%A9tudes).
 - layout: left
   name: Wuhan University
@@ -47,7 +58,7 @@
     Having made more friends and read books in different categories, I developed a broad interest in science. Campus life taught me a lot about courage, caution, selflessness and diligence.
   description: |
     No longer being the best student in my class and I taught myself a bit more math. But unexpectedly, I didn't do well in the math part of [National College Entrance Examination](https://en.wikipedia.org/wiki/National_College_Entrance_Examination). Here is the [homepage](http://www.hbshgzx.com/).
-  
+
 - layout: left
   name: Chenyi School
   quote: >

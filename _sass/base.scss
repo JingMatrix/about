@@ -231,6 +231,14 @@ body {
 	a {
 		text-decoration: underline;
 	}
+	
+	.row {
+		page-break-inside: avoid
+	}
+
+	.education-container {
+		page-break-before: always;
+	}
 
 	img[src]:after {
 		content: none !important;
