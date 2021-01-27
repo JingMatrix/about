@@ -231,13 +231,18 @@ body {
 	a {
 		text-decoration: underline;
 	}
-	
+
 	.row {
-		page-break-inside: avoid
+		page-break-inside: avoid;
 	}
 
 	.education-container {
 		page-break-before: always;
+	}
+
+	.education-container > div.row:nth-last-child(2),
+	.education-container > div.row:nth-last-child(1) {
+		display: none;
 	}
 
 	img[src]:after {
